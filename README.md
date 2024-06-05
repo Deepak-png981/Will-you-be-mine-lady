@@ -13,9 +13,9 @@ pnpm i
 pnpm run dev
 ```
 
-# Preview
+<!-- # Preview
 
-![image description](demo.gif)
+![image description](demo.gif) -->
 
 
 # How to deploy it
